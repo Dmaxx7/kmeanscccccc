@@ -15,7 +15,7 @@ from sklearn.decomposition import PCA
 st.set_page_config(page_title="K-Means Clustering App", layout="centered")
 
 # Title and description
-st.title("🔍 K-Means Clustering App with Iris Dataset by Jhomphon Pothong")
+st.title("🔍 K-Means Clustering App with Iris Dataset by Pattarapum Ruamkaew")
 st.markdown("This interactive app performs **K-Means clustering** on the Iris dataset and visualizes the results using **2D PCA projection**.")
 
 # Sidebar for user input
